@@ -1,0 +1,6 @@
+scikit-learn==1.1.1
+sentencepiece==0.1.97
+tokenizers==0.13.2
+transformers==4.24.0
+pandas==1.5.1
+matplotlib==3.6.3
