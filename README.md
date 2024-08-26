@@ -10,6 +10,18 @@ The json and csv files are stored with git-lfs. Install git-lfs using the offici
 
 If you want to use our work, please use the following citation.
 
+```
+@misc{risse2024scorewrongexambenchmarking,
+      title={Top Score on the Wrong Exam: On Benchmarking in Machine Learning for Vulnerability Detection},
+      author={Niklas Risse and Marcel Böhme},
+      year={2024},
+      eprint={2408.12986},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR},
+      url={https://arxiv.org/abs/2408.12986},
+}
+```
+
 ## Structure
 
 Below is an annotated map of the directory structure of this repository.
