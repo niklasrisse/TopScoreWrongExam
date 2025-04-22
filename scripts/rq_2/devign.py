@@ -3,7 +3,7 @@ import random
 import pandas as pd
 import numpy as np
 
-from sklearn.metrics import accuracy_score
+from sklearn.metrics import accuracy_score, f1_score
 from sklearn.model_selection import train_test_split
 
 from transformers import AutoTokenizer
@@ -59,3 +59,6 @@ y_test_pred = clf.predict(X_test)
 
 test_accuracy = accuracy_score(y_test, y_test_pred)
 print("Test Accuracy:", test_accuracy)
+
+test_f1_score = f1_score(y_test, y_test_pred, average='weighted')
+print("Test F1 Score:", test_f1_score)

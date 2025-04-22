@@ -1,0 +1,1 @@
+The original BigVul dataset was too large for this repository. However, you can download the exact file we used from this link, which is from the original authors: https://drive.google.com/file/d/1-0VhnHBp9IGh90s2wCNjeCMuy70HPl8X/view?usp=sharing
