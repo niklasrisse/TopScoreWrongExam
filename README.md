@@ -13,14 +13,22 @@ The json and csv files are stored with git-lfs. Install git-lfs using the offici
 If you want to use our work, please use the following citation.
 
 ```
-@misc{risse2024scorewrongexambenchmarking,
-      title={Top Score on the Wrong Exam: On Benchmarking in Machine Learning for Vulnerability Detection},
-      author={Niklas Risse and Marcel Böhme},
-      year={2024},
-      eprint={2408.12986},
-      archivePrefix={arXiv},
-      primaryClass={cs.CR},
-      url={https://arxiv.org/abs/2408.12986},
+@article{TopScoreWrongExam,
+author = {Risse, Niklas and Liu, Jing and B\"{o}hme, Marcel},
+title = {Top Score on the Wrong Exam: On Benchmarking in Machine Learning for Vulnerability Detection},
+year = {2025},
+issue_date = {July 2025},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {2},
+number = {ISSTA},
+url = {https://doi.org/10.1145/3728887},
+doi = {10.1145/3728887},
+journal = {Proc. ACM Softw. Eng.},
+month = jun,
+articleno = {ISSTA018},
+numpages = {23},
+keywords = {LLM, ML4VD, benchmark, context, data quality, function, machine learning, software security, spurious correlations, vulnerability detection}
 }
 ```
 
